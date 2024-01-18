@@ -1,12 +1,12 @@
 .friendList {
     margin: 0;
-    background-color: rgb(51, 133, 133);
+    background-color: rgb(66, 222, 222);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 20px;
-    color: brown;
+    color: rgb(246, 10, 10);
   }
   
   .status {
@@ -18,7 +18,7 @@
   }
   
   .online {
-    background-color: green;
+    background-color: rgb(210, 72, 185);
   }
   
   .offline {
@@ -30,7 +30,7 @@
     width: 150px;
     gap: 10px;
     border: 1px solid black;
-    box-shadow: 2px 5px rgb(37, 89, 89);
+    box-shadow: 2px 5px rgb(212, 36, 177);
     border-radius: 15px;
     padding: 30px;
   }
